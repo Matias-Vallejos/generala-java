@@ -38,15 +38,12 @@ La estructura algorítmica previa a la codificación fue modelada mediante un di
 
 ## 🚀 Cómo ejecutar el proyecto
 
-### Opción 1: En un IDE (Eclipse, IntelliJ IDEA, NetBeans)
+### En un IDE (Eclipse, IntelliJ IDEA, NetBeans)
 1. Cloná o descargá el repositorio en formato ZIP.
 2. Abrí tu entorno de desarrollo y seleccioná **Import / Open Project**.
 3. Ejecutá la clase principal: `src/generala/Generala.java`.
 
-### Opción 2: Desde la terminal
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Matias-Vallejos/generala-java.git](https://github.com/Matias-Vallejos/generala-java.git)
-   cd generala-java
+
+---
 
 > 🎓 Contexto académico: Proyecto desarrollado para la materia Introducción a la Programación (Final) — Carrera de Analista de Sistemas.
