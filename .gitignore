@@ -1,0 +1,25 @@
+# Archivos compilados
+*.class
+bin/
+out/
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
