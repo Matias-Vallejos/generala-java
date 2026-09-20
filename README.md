@@ -49,4 +49,4 @@ La estructura algorítmica previa a la codificación fue modelada mediante un di
    git clone [https://github.com/Matias-Vallejos/generala-java.git](https://github.com/Matias-Vallejos/generala-java.git)
    cd generala-java
 
-> 🎓 Contexto académico: Proyecto desarrollado para la materia Programación Orientada a Objetos (2do Parcial) — Carrera de Analista de Sistemas.
+> 🎓 Contexto académico: Proyecto desarrollado para la materia Introducción a la Programación (Final) — Carrera de Analista de Sistemas.
